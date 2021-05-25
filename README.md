@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**ABHIYANSHU/ABHIYANSHU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github.com/ABHIYANSHU/ABHIYANSHU/blob/main/iamabhinavsrivastavacoverphoto.jpg" width="1000" height="250"/>
+  <hr>
+  <h1>HELLO <img src="https://github.com/ABHIYANSHU/ABHIYANSHU/blob/main/Hello.gif" width="30px"></h1>
+  <h2>I am Abhinav Srivastava</h2>
+  <h3>I am a Software Developer, I like to Develop Stuff</h3>
+  <a href="https://www.linkedin.com/in/abhiyanshu/" target="blank"><img align="center" src="https://github.com/ABHIYANSHU/ABHIYANSHU/blob/main/linkedInIcon.svg" alt="LinkedIn"  height="30" width="40" /></a>
+  <a href="https://github.com/ABHIYANSHU" target="blank"><img align="center" src="https://github.com/ABHIYANSHU/ABHIYANSHU/blob/main/GithubIcon.svg" alt="GitHub" height="30"  width="40" /></a>
+  <a href = "mailto: iamabhinavsriv@gmail.com"><img align="center" src="https://github.com/ABHIYANSHU/ABHIYANSHU/blob/main/GmailIcon.svg" alt="Gmail" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/Abhiyanshu" target="blank"><img align="center" src="https://github.com/ABHIYANSHU/ABHIYANSHU/blob/main/HackerRank.svg" alt="HackerRank" height="30" width="40" /></a>
+  <a href="https://iamabhinavsriv.medium.com/" target="blank"><img align="center" src="https://github.com/ABHIYANSHU/ABHIYANSHU/blob/main/MediumIcon.svg" alt="Medium" height="30" width="40" /></a>
+</div>
