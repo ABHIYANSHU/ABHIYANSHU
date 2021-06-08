@@ -9,4 +9,9 @@
   <a href = "mailto: iamabhinavsriv@gmail.com"><img align="center" src="https://github.com/ABHIYANSHU/ABHIYANSHU/blob/main/GmailIcon.svg" alt="Gmail" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/Abhiyanshu" target="blank"><img align="center" src="https://github.com/ABHIYANSHU/ABHIYANSHU/blob/main/HackerRank.svg" alt="HackerRank" height="30" width="40" /></a>
   <a href="https://iamabhinavsriv.medium.com/" target="blank"><img align="center" src="https://github.com/ABHIYANSHU/ABHIYANSHU/blob/main/MediumIcon.svg" alt="Medium" height="30" width="40" /></a>
+  <hr>
+  <h3> Desktop </h3>
+  <img src="https://github.com/ABHIYANSHU/ABHIYANSHU/blob/main/DarkDesktop.png" width="750" height="450"/>
+  <h3> Mobile </h3>
+  <img src="https://github.com/ABHIYANSHU/ABHIYANSHU/blob/main/DarkMobile.jpg" width="150" height="450"/>
 </div>
